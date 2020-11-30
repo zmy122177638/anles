@@ -1,6 +1,6 @@
 {
   "name": "@anles/utils",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "一个在项目中非常实用的工具包，支持ts类型验证",
   "main": "lib/index.umd.js",
   "module": "lib/index.esm.js",
